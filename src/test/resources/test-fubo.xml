@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestFubo" verbose="5">
+	<test name="TestFubo">
+		<classes>
+			<class name="framework.fubotv.mlptest.SignInTest" />
+		</classes>
+	</test>
+</suite>
